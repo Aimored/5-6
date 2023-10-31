@@ -1,4 +1,4 @@
-﻿program z11;
+﻿program z10;
 var
   a: array[1..20] of integer;
   i, n: integer;
